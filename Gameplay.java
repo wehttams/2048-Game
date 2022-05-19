@@ -1,6 +1,3 @@
-// Matthew Fortes and Richard Chuong
-// this file contains all code for the project
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
